@@ -1,3 +1,3 @@
 #change
 
-checking git rebase
+checking git merge
