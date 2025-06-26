@@ -1,1 +1,1 @@
-echo "main.sh"
+echo "3"
